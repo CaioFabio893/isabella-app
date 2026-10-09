@@ -4,7 +4,7 @@ Aplicativo baseado na estrutura visual de Lucas, com ficha fixa, cinco dias, ví
 
 Segunda: corpo todo em casa. Terça: quadríceps e glúteos. Quarta: glúteos e core em casa. Quinta: superiores e core. Sábado: posteriores e glúteos. Sexta e domingo: recuperação.
 
-Revisão: tempo de academia aproximado; execução com amplitude controlada; carga sem depender de queimação; circuito com pausas; sem promessas de redução de gordura localizada. Cardio fixo de 10 minutos substitui protocolos máximos e descanso nas bordas da esteira em movimento. Sem dados pessoais de condicionamento, a ficha organiza o material enviado e não substitui ajuste presencial.
+Revisão: tempo de academia aproximado; execução com amplitude controlada; carga sem depender de queimação; circuito com pausas; sem promessas de redução de gordura localizada. Três opções de cardio de 10 minutos: corrida e caminhada, caminhada intervalada e bicicleta. Recuperação em movimento leve, sem descanso nas bordas da esteira. AMRAP explicado em painel aberto e prescrições destacadas em cada exercício. Sem dados pessoais de condicionamento, a ficha organiza o material enviado e não substitui ajuste presencial.
 
 Vídeos precisam de internet. Registros ficam no navegador. O alarme depende do navegador/dispositivo e pode não tocar com tela bloqueada. Use Exportar registros para guardar uma cópia. Começar nova sessão limpa apenas as marcações do treino selecionado.
 
